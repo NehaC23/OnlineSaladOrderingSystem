@@ -1,0 +1,12 @@
+.Home{
+  margin:0 auto;
+  text-align: center;
+}
+
+.AppHeader{
+  font-family:"Museo Sans Cyrl";
+  font-size: 40px;
+  color:blue;
+  margin-top:4.5em;
+}
+
